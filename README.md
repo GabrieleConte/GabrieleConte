@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieleconte" alt="gabrieleconte" /></a> </p>
 
-- 🔭 I’m currently working for **EY,JEBa Consulting**
+- 🔭 I’m currently working for **EY,JEBA Consulting**
 
 - 🌱 I’m currently learning **Data Science(AI focused), Backend technologies**
 
