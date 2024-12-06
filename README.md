@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Data Science, Backend technologies**
 
-- 👨‍💻 All of my projects are available at [https://datapizza.tech/folio/gabrieleconte738](https://datapizza.tech/folio/gabrieleconte738)
-
 - 💬 Ask me about **Mobile(Native/Multiplatform), Backend(python/php/java),Frontend(React,typescript,tailwind,bs) and a lot more!**
 
 - 📫 How to reach me **gabryconte90@gmail.com**
