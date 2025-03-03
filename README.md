@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **gabryconte90@gmail.com**
 
-- 📄 Know about my experiences [https://datapizza.tech/folio/gabrieleconte738](https://datapizza.tech/folio/gabrieleconte738)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriele-conte-a62173204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriele-conte-a62173204/" height="30" width="40" /></a>
