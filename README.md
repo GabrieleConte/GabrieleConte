@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working for **EY**
 
-- 🌱 I’m currently learning **Data Science, Backend technologies**
+- 🌱 I’m currently learning **SW & AI Engineering**
 
-- 💬 Ask me about **Mobile(Native/Multiplatform), Backend(python/php/java),Frontend(React,typescript,tailwind,bs) and a lot more!**
+- 💬 Ask me about **Mobile(Native/Multiplatform), Backend(python/php/java,go,c#),Frontend(React,typescript,tailwind,bs) and a lot more!**
 
 - 📫 How to reach me **gabryconte90@gmail.com**
 
