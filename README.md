@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mobile(Native/Multiplatform), Backend(python/php/java,go,c#),Frontend(React,typescript,tailwind,bs) and a lot more!**
 
-- 📫 How to reach me **gabryconte90@gmail.com**
+- 📫 How to reach me **gconte.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
