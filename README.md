@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working for **EY**<br><br> 🌱 I’m currently learning **Data Science & AI Engineering**<br><br> 💬 Ask me about **Mobile(Native/Multiplatform), Backend(python/php/java,go,c#),Frontend(React,typescript,tailwind,bs) and a lot more!**<br><br> 📫 How to reach me **gconte.dev@gmail.com**
+🔭 I’m currently working for **EY** as AI Engineer<br><br> 🌱 My academic background is about **Data Science & SW Engineering**<br><br> 💬 Ask me about **Mobile(Native/Multiplatform), Backend(python/php/java,go,c#),Frontend(React,typescript,tailwind,bs) and a lot more!**<br><br> 📫 How to reach me **gconte.dev@gmail.com**
 
 
 ## 🌐 Socials:
